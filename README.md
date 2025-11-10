@@ -15,6 +15,9 @@
     echo 'Selamat Datang '. $_POST['nama'];
     ?>
 ```
+
+Output :
+
 <img width="302" height="108" alt="image" src="https://github.com/user-attachments/assets/a559817e-fd3d-4b04-b706-dc5bb0ffa2c4" />
 
 # Operator
@@ -27,6 +30,9 @@
         echo "Gaji yang dibawa pulang = Rp. $thp";
     ?>
 ```
+
+Output :
+
 <img width="277" height="102" alt="image" src="https://github.com/user-attachments/assets/c4a998b8-c3e0-4d63-ac27-335447647f7a" />
 
 # Kondisi IF
@@ -42,6 +48,9 @@
         }
     ?>
 ```
+
+Output :
+
 <img width="141" height="78" alt="image" src="https://github.com/user-attachments/assets/116df1eb-8af7-43ed-9d42-4b68d2a7f22e" />
 
 # Kondisi Switch
@@ -63,6 +72,9 @@
             }
     ?>
 ```
+
+Output :
+
 <img width="187" height="90" alt="image" src="https://github.com/user-attachments/assets/67d45147-0b53-45d9-ae35-93c3b448e1bd" />
 
 # Perulangan for
@@ -78,6 +90,9 @@
         }
     ?>
 ```
+
+Output :
+
 <img width="236" height="452" alt="image" src="https://github.com/user-attachments/assets/42bb1452-bc73-458f-a391-79a6999a0c97" />
 
 # Perulangan while
@@ -91,6 +106,9 @@
         }
     ?>
 ```
+
+Output :
+
 <img width="215" height="263" alt="image" src="https://github.com/user-attachments/assets/919dcb72-60e6-490d-9b03-d7b8e43edd95" />
 
 # Perulangan dowhile
@@ -104,6 +122,9 @@
         } while ($i<=10);
     ?>
 ```
+
+Output :
+
 <img width="230" height="260" alt="image" src="https://github.com/user-attachments/assets/2d29d152-ba50-46fa-95cb-ffaf6d8f8dd1" />
 
 # Pertanyaan dan Tugas
@@ -114,8 +135,12 @@ Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal 
 
 **Sebelum dimasukkan css**
 
+Output :
+
 <img width="486" height="298" alt="Screenshot 2025-11-10 210923" src="https://github.com/user-attachments/assets/2072450a-75ce-4179-88e5-3ef109326b72" />
 
 **Setelah dimasukkan css**
+
+Output :
 
 <img width="608" height="592" alt="Screenshot 2025-11-10 211009" src="https://github.com/user-attachments/assets/918d6360-d15f-4ce9-94db-c687a2eb21be" />
