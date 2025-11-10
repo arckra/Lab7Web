@@ -144,3 +144,11 @@ Output :
 Output :
 
 <img width="608" height="592" alt="Screenshot 2025-11-10 211009" src="https://github.com/user-attachments/assets/918d6360-d15f-4ce9-94db-c687a2eb21be" />
+
+**Penjelasan Alur**
+
+1. User mengisi form dengan data dirinya.
+2. PHP menerima data lewat $_POST.
+3. Dari tanggal lahir → diambil tahun untuk menghitung umur.
+4. PHP menggunakan switch untuk menentukan gaji sesuai pekerjaan.
+5. Semua hasil ditampilkan kembali di halaman output.
